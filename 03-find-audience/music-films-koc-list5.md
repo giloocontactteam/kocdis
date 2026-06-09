@@ -1,0 +1,99 @@
+# KOC 名單 List 5 — 台美/AAPI 音樂社群：Podcast × TikTok × Substack／LinkedIn
+
+**研究日期：** 2026-06-09  
+**本名單方向：** 延伸 List 1–4 的盲點，鎖定三個新渠道
+- **A 組（Podcast 主持人）** — 有固定聽眾的音樂/文化 podcast 主持人
+- **B 組（Substack／Newsletter 寫手）** — 有在經營訂閱電子報的 AAPI 音樂/電影文化人
+- **C 組（TikTok 主力音樂人）** — TikTok 為主戰場的 AAPI 獨立音樂人
+
+**適用影片：**
+| 影片 | 剩餘授權 | 優先度 |
+|------|---------|--------|
+| 《詩人與搖滾歌手》 Rambling in New York | 128 天 | ★★★ 最急 |
+| 《為自己唱的歌：劉堅》 Sing My Song: Liu Jian | 247 天 | ★★★ |
+| 《比爾街藍調》 Blues on Beale | 702 天 | ★★ |
+| 《瑞明樂隊》 Rui-Ming Band | 1,223 天 | ★★ |
+| 《音樂人生》 KJ: Music and Life | 1,678 天 | ★ |
+| 《美樂蒂》 Melody's melody | 1,552 天 | ★ |
+
+---
+
+## A 組｜Podcast 主持人（#1–10）
+
+| 序號 | KOC 名稱 | IG Handle | IG 連結 | Email | 其他平台連結 | 所在城市/地區 | 主要語言 | 主領域 | 次領域 | 內容主題標籤 | 受眾屬性 | 粉絲數（平台） | 互動率(%) |
+|-----|----------|-----------|---------|-------|------------|------------|---------|------|------|------------|---------|------|---------|
+| 1 | Taiwan Grooves（Fil Leskovsky） | — | — | 官網查詢 | spotify: Taiwan Grooves；soundon.fm | 台北（RTI Radio Taiwan International） | 英語 | 台灣音樂 Podcast | 音樂人深訪 | #TaiwanMusic #indie #podcast | 台灣及海外台灣音樂愛好者 | Spotify 週訂閱（規模待查）※ | — |
+| 2 | Talking Taiwan（Felicia Lin） | @talkingtaiwan | instagram.com/talkingtaiwan | 官網查詢 | talkingtaiwan.transistor.fm；Apple Podcasts | 北美（移動） | 英語 | 台灣相關 Podcast | 台灣政治/社會/文化 | #Taiwan #TaiwaneseAmerican #podcast | 台灣/台美社群、亞太政策關注者 | ~5,000 訂閱（Apple/Spotify）※ | — |
+| 3 | They Call Us Bruce（Jeff Yang & Phil Yu） | @theycallusbruce | instagram.com/theycallusbruce | 官網查詢 | theycallusbruce.com；Apple Podcasts | New York, NY | 英語 | AAPI 文化 Podcast | 娛樂/媒體評論 | #AAPI #AsianAmerican #popculture | AAPI 媒體受眾、娛樂產業關注者 | IG ~7,000 | ~3.5% |
+| 4 | Dear Asian Americans（Jerry Won） | @dearasianamericans | instagram.com/dearasianamericans | 官網查詢 | dearasianamericans.com；Apple Podcasts | Los Angeles, CA | 英語 | AAPI 故事 Podcast | 身份認同/創業 | #AAPI #AsianAmerican #representation | 北美亞裔年輕世代 | IG ~12,000 | ~2.5% |
+| 5 | Self Evident: Asian America's Stories（Emily Kwong） | @selfevidentshow | instagram.com/selfevidentshow | 官網查詢 | selfevidentshow.com；NPR | New York, NY | 英語 | AAPI 公共廣播 | 文化/社會議題 | #AAPI #NPR #AsianAmerica | 公共廣播聽眾、進步派亞裔受眾 | IG ~8,000 | ~3% |
+| 6 | Potluck Podcast Collective | @podcastpotluck | instagram.com/podcastpotluck | hello@podcastpotluck.com | podcastpotluck.com | USA（全國） | 英語 | AAPI Podcast 聚合社群 | Podcast 製作/推廣 | #AAPI #podcast #AsianAmerican | 亞裔 podcast 聽眾及創作者 | IG ~9,000 | ~3% |
+| 7 | Baldwin Chiu「Only Won」 | @onlywonmc | instagram.com/onlywonmc | 官網查詢 | fareastdeepsouth.com；onlywon.com | Los Angeles, CA | 英語 | 華裔美籍 rapper／紀錄片製作人 | Far East Deep South（PBS）導演 | #ChineseAmerican #blues #documentary | 亞裔文化圈、藍調社群（Mississippi Delta 華人史）| IG ~1,000※ 但 PBS 觸及廣 | — |
+| 8 | Larissa Lam | @larissalammusic | instagram.com/larissalammusic | 官網查詢 | larissalam.com；fareastdeepsouth.com | Pasadena, CA | 英語 | 創作歌手／紀錄片導演 | Far East Deep South（PBS）； Oprah Winfrey Show 作曲 | #documentary #ChineseAmerican #blues | 亞裔電影/音樂圈 | IG ~3,000※ 但有 PBS/影展背書 | — |
+| 9 | Asian American Podcasters Association（AAPA） | @aapodcasters | instagram.com/aapodcasters | 官網查詢 | aapodcasters.org | USA（全國） | 英語 | AAPI Podcast 組織 | 社群推廣 | #AAPI #podcast #community | AAPI podcast 創作者社群 | IG ~6,500 | ~3% |
+| 10 | Paola Mardo | @paolamardo | instagram.com/paolamardo | 官網查詢 | paolamardo.com；Substack: Subtitles | Los Angeles, CA | 英語 | 菲裔美籍 podcast 主持人／紀錄片導演 | Substack《Subtitles》創意產業 newsletter | #AAPI #documentary #creativity | AAPI 創意工作者、Vanity Fair 推薦 podcast 聽眾 | IG ~5,000 | ~3.5% |
+
+> ※ Podcast 主持人部分 IG 粉絲偏低，但觸及力來自 Apple Podcasts/Spotify 聽眾訂閱，接觸方式以 email 為主，非 IG。
+
+---
+
+## B 組｜Substack／Newsletter 寫手（#11–18）
+
+| 序號 | KOC 名稱 | IG Handle | IG 連結 | Email | 其他平台連結 | 所在城市/地區 | 主要語言 | 主領域 | 次領域 | 內容主題標籤 | 受眾屬性 | 訂閱平台／規模 | 互動率(%) |
+|-----|----------|-----------|---------|-------|------------|------------|---------|------|------|------------|---------|------|---------|
+| 11 | ZAN! Newsletter（Rebecca EH） | — | — | zanthenewsletter.substack.com | Substack | USA | 英語 | 亞洲離散社群藝術推薦 newsletter | 音樂、文學、電影 | #AsianDiaspora #music #film | 亞裔創作圈、跨媒體文化愛好者 | Substack（訂閱數待查，每月 2 期）| — |
+| 12 | Asian A.V. Club | — | — | asianavclub.substack.com | Substack（active to 2026-04） | USA | 英語 | 亞裔美國電影／音樂 newsletter | 導演/創作者深訪 | #AsianAmerican #film #music | 亞裔電影迷、娛樂產業讀者 | Substack（活躍，71 期以上）| — |
+| 13 | Hǎi 海（Jake Newby） | — | — | alltimehai.substack.com | Substack | 中國/跨境 | 英語 | 獨立華語電影／文化 newsletter | 中國獨立音樂場景 | #ChineseIndie #film #music | 對華語獨立文化感興趣的英語讀者 | Substack（文章類型精準）| — |
+| 14 | Katie Gee Salisbury | — | — | katiegeesalisbury.com | 個人網站；Substack | New York, NY | 英語 | AAPI 文化 writer／journalist | 音樂、影視評論 | #AAPI #culture #writing | 北美亞裔文化圈讀者 | Substack（規模待查）| — |
+| 15 | Anthony Kaufman | — | — | anthonykaufman.substack.com | Substack | New York, NY | 英語 | 獨立電影 Substack 寫手 | 覆蓋 AAPI 影展、紀錄片 | #indiefilm #documentary #AAPI | 獨立電影產業讀者、影展關注者 | Substack（定期更新）| — |
+| 16 | Sound & Vision Newsletter | — | — | soundnvision.substack.com | Substack | USA | 英語 | 音樂 + 視覺文化 newsletter | 涵蓋 AAPI 音樂文化 | #music #culture #AAPI | 音樂文化迷、跨媒體讀者 | Substack | — |
+| 17 | The Amp（Asian American Arts Alliance） | — | — | aaartsalliance.org/magazine | 官網 Magazine | New York, NY | 英語 | AAPI 藝術文化媒體 | 音樂、視覺藝術、表演 | #AAPI #arts #music | 紐約亞裔藝術圈、AAPI 創作者 | 網站 + Email newsletter | — |
+| 18 | Meaghan Abaca（LinkedIn）| — | — | linkedin.com/in/meaghanabaca | LinkedIn | USA | 英語 | AAPI 音樂產業 LinkedIn 寫手 | 音樂產業/AAPI 代表性 | #AAPI #musicindustry #representation | 音樂產業從業者、LinkedIn 讀者 | LinkedIn（文章觸及範圍待查）| — |
+
+---
+
+## C 組｜TikTok 主力音樂人（#19–30）
+
+| 序號 | KOC 名稱 | TikTok Handle | TikTok 連結 | IG Handle | Email | 所在城市/地區 | 主要語言 | 主領域 | 次領域 | 內容主題標籤 | 受眾屬性 | 粉絲數（TikTok） | 互動率(%) |
+|-----|----------|--------------|------------|----------|-------|------------|---------|------|------|------------|---------|------|---------|
+| 19 | Elliot Lee | @elliotleemusic | tiktok.com/@elliotleemusic | @elliotleemusic | 官網查詢 | New York, NY | 英語 | 另類 Pop／獨立音樂人 | 非二元性別／LGBTQ+ 聲音 | #altpop #indiemusic #nyc | 獨立音樂迷、LGBTQ+ 亞裔粉絲 | 47,400 | ~4% |
+| 20 | Sarah Kang | @sarahkangmusic | tiktok.com/@sarahkangmusic | @sarahkangmusic | 官網查詢 | New York, NY | 英語 | 韓裔美籍 indie jazz/pop | 首張北美巡演 2023 | #indiejazz #jazzy #koreanaamerican | 都會女性音樂迷、NYC 爵士/indie 圈 | 8,638（IG 59K） | ~3.5% |
+| 21 | Audrey English | @audreyenglishmusic | tiktok.com/@audreyenglishmusic | @audreyenglishmusic | 官網查詢 | USA | 英語 | 薩摩亞裔美籍 R&B/gospel 歌手 | AGT、American Idol 受邀 | #rnb #gospel #AAPI | AAPI R&B 愛好者 | IG 11,000（TikTok 待查）| ~3% |
+| 22 | Rini | @rinimusic | tiktok.com/@rinimusic | @rinimusic | 官網查詢 | Los Angeles, CA | 英語 | 菲律賓／印尼裔美籍 indie R&B | 88rising 相關圈子 | #indieRnB #AAPI #lo-fi | AAPI indie R&B 迷、88rising 聽眾 | IG ~25,000※ | ~2.5% |
+| 23 | Yeek | @yeekyeek | tiktok.com/@yeekyeek | @yeekyeek | 官網查詢 | Los Angeles, CA | 英語 | 菲裔美籍 indie/alt 音樂人 | Stones Throw Records 簽約 | #indie #altpop #FilipinAmerican | 獨立音樂迷、LA alt 圈 | IG ~40,000※ | ~2% |
+| 24 | Audrey Nuna | @audreynuna | tiktok.com/@audreynuna | @audreynuna | 官網查詢 | New York, NY | 英語/韓語 | 韓裔美籍 rapper／singer | Columbia Records 簽約 | #rap #AAPI #alternative | AAPI hip-hop/另類音樂迷 | IG ~40,000 | ~2% |
+| 25 | Luna Li | @lunalilunalilunali | tiktok.com/@lunalilunalilunali | @lunalilunalilunali | 官網查詢 | Toronto, Canada | 英語 | 韓裔加拿大多樂器音樂人 | COVID 時期病毒式影片、AWAL 發行 | #multiinstrumentalist #indie #toronto | 獨立音樂迷、加拿大 AAPI 受眾 | TikTok 48,000（IG 112K，超過門檻）| ~4% |
+| 26 | Marié Digby | @mariedigby | tiktok.com/@mariedigby | @mariedigby | 官網查詢 | Los Angeles, CA | 英語/日語 | 日裔愛爾蘭裔美籍 singer-songwriter | 2007 YouTube 病毒式起家 | #singerSongwriter #acoustic #Japanese | 亞裔成人流行音樂迷 | IG ~45,000 | ~2% |
+| 27 | Jason Chen 陳以桐 | @jasondchen | tiktok.com/@jasondchen | @jasondchen | 官網查詢 | Boston/LA | 英語/中文 | 台裔美籍 singer-songwriter | #MusicNeverSleeps YouTube 2M subscribers | #pop #TaiwaneseAmerican #cover | 台美年輕世代、亞裔流行音樂迷 | IG 3M（TikTok 規模待查）※超過門檻 | — |
+| 28 | Amber Liu | @amberliu | tiktok.com/@amberliu | @amberliu | 官網查詢 | Los Angeles, CA | 英語/中文 | 台裔美籍 K-pop solo 轉獨立 | SM Entertainment f(x) 出身 | #pop #TaiwaneseAmerican #kpop | 台裔美籍 K-pop/pop 粉絲 | IG ~700K※大幅超過門檻 | — |
+| 29 | Cynthia Lin | @cynthialinmusic | tiktok.com/@cynthialinmusic | @cynthialinmusic | 官網查詢 | San Francisco, CA | 英語/中文 | 華裔美籍烏克麗麗演奏家／音樂教育者 | YouTube 400K+；TikTok 音樂教育內容 | #ukulele #ChineseAmerican #musicteacher | 音樂學習者、AAPI 家庭受眾 | TikTok ~80K※略超 | ~4% |
+| 30 | mxmtoon（Maia Mchugh） | @mxmtoon | tiktok.com/@mxmtoon | @mxmtoon | 官網查詢 | Oakland/NYC | 英語 | 華裔美籍 indie pop 創作歌手 | Ukulele bedroom pop；Netflix DOTA 配樂 | #indie #bedroomPop #ChineseAmerican | 獨立音樂迷、LGBTQ+ AAPI 粉絲 | TikTok ~200K※大幅超過門檻 | — |
+
+> ※ **C 組重要說明：** 台美/華美 TikTok 音樂人在 5K–50K 範圍內本來就稀少。#19–26 為符合門檻或接近門檻者。#27–30（Jason Chen、Amber Liu、Cynthia Lin、mxmtoon）粉絲遠超 50K，列入供參考——若考慮 **合作影片/聯名貼文** 而非標準 KOC 分潤，這四人是台美/華美音樂圈影響力最高的名字，值得個別評估洽談條件。
+
+---
+
+## 使用建議
+
+**Podcast 組（A 組）**  
+最適合的接觸方式是 email，而非 IG DM。重點是提供「播出素材」：可以邀請導演或片中人物上節目，而非只是請他們貼文。  
+- 《詩人與搖滾歌手》最急 → 優先接觸 #2 Talking Taiwan + #3 They Call Us Bruce  
+- 《比爾街藍調》藍調角度 → #7 Baldwin Chiu（Far East Deep South 藍調/華人交叉點）
+
+**Substack／Newsletter 組（B 組）**  
+適合提供「獨家故事角度」+ 媒體聯映邀請。  
+- #12 Asian A.V. Club 已於 2026-04 期更新，活躍度高，最值得先接觸  
+- #11 ZAN! 和 #13 Hǎi 海 受眾精準，訂閱者黏著度高於 IG 粉絲
+
+**TikTok 組（C 組）**  
+門檻內的名單比 IG 更難找，但 TikTok 演算法本來就有放大效果。  
+- #19 Elliot Lee + #20 Sarah Kang 是 NYC 音樂圈，與《詩人》《劉堅》的 NYC 場景最對口  
+- #25 Luna Li（加拿大，48K TikTok）是最貼近目標粉絲規模的名字
+
+---
+
+## 未重複確認
+以上 30 名均未出現於 List 1–4（共 140 名）。
+
+## 資料來源
+2026-06-09 公開搜尋。Podcast 訂閱數、部分 TikTok 粉絲數為估計值或待查，接觸前請核實。
