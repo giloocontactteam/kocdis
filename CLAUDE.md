@@ -3,7 +3,8 @@
 ## 專案類型：AI 輔助電影發行工作流
 
 這是一個給 Giloo (giloo.ist) 用的**發行工作流和 AI 助手專案**。
-裡面沒有程式碼。以下全域規則不適用：
+主體沒有程式碼（唯一例外是 `koc-outreach-tool/`，一個獨立的 Python
+工具子專案，有自己的 `CLAUDE.md` 管轄該目錄）。以下全域規則在主體不適用：
 
 - `common/testing.md` — 沒有測試、沒有 TDD、沒有覆蓋率要求
 - `common/security.md` — commit 前不需要安全檢查
@@ -133,7 +134,8 @@ Stage 6 → Measure（成效追蹤、學習回饋）
 │   ├── measure/SKILL.md           ← /measure 成效追蹤
 │   └── status/SKILL.md            ← /status Pipeline 狀態
 ├── 01-onboard/ → 06-measure/     ← 6 階段，各有 _template/
-└── prompt-library/                ← 可複用 prompt 模板（兩邊共用）
+├── prompt-library/                ← 可複用 prompt 模板（兩邊共用）
+└── koc-outreach-tool/              ← KOC 名單擴充工具（獨立 Python 專案，見其 CLAUDE.md）
 ```
 
 新片一律從 `_template/README.md` 開始建。
