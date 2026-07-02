@@ -1,0 +1,25 @@
+# Data with PII (scraped emails) — never commit
+/input/
+/export/
+*.xlsx
+
+# Local backups produced by the pipeline
+*.bak
+*.bak[0-9]
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Project memory / local state
+.memory/

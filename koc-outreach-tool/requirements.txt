@@ -1,0 +1,5 @@
+# Core toolkit dependencies. Prefer `pip install -e .` (uses pyproject.toml),
+# this file mirrors it for plain pip workflows.
+playwright>=1.40
+openpyxl>=3.1
+pandas>=2.0
