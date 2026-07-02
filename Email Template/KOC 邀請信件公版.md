@@ -124,3 +124,9 @@ Your passion for music and your curatorial taste resonate with and inspire many 
 您在運動與戶外領域聚集了一群忠實的觀眾；Giloo 上有許多精彩的運動與戶外紀錄片，記錄選手、賽場與戶外冒險的真實故事，我們很希望透過您的推薦，讓這些作品被更多人看見。
 
 You have built a loyal audience in the sports and outdoor space. Giloo features a range of compelling sports and outdoor documentaries that tell authentic stories of athletes, competition, and adventure, and we would be glad to bring these films to a wider audience through your recommendations.
+
+#### **科技/職涯**
+
+您在科技產業與職涯發展領域深耕多時，累積了一群持續關注產業動態、創新趨勢與職涯成長的忠實讀者／觀眾；Giloo 上亦有關注各類產業之議題紀錄片，我們很希望能與您一起，把這些故事帶到您的社群面前。
+
+You have built a dedicated following in the tech industry and career space, reaching readers and viewers who closely follow innovation, industry trends, and professional growth. Giloo also features documentaries that explore issues across a wide range of industries, and we would be glad to work with you to bring these stories to your community.
