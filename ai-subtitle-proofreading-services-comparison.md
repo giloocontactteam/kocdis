@@ -85,6 +85,27 @@
 
 ---
 
+## 附錄：這行的訂價邏輯 — 有沒有「成本＋固定%」公式？
+
+沒有像餐飲業「食材成本 × 固定倍數」那種公式。餐飲業的核心成本是原料，翻譯／字幕校對業的核心成本是**人的時間**，材料成本（AI 工具訂閱費，每分鐘幾毛到幾塊台幣）幾乎可以忽略不計，所以「成本＋%」這個框架本身不太適用，真正決定報價的是「工時 × 目標時薪」。
+
+不過業界有幾個可以當估算錨點的經驗法則：
+
+| 產業／角色 | 訂價邏輯 | 大概倍數／比例 |
+|---|---|---|
+| 餐飲 | 食材成本 → 定價 | 食材成本抓 28–35%，反推 ≈ 成本 × 2.8–3.5 倍 |
+| 零售 | 進貨成本 → 定價 | Keystone pricing，成本 × 2（毛利 50%） |
+| 顧問／廣告代理商 | 全成本人力 → 收費 | Rule of Three，全薪資成本 × 3 |
+| 翻譯社（有 PM/QA） | 譯者稿費 → 客戶報價 | 約 1.8–2.9 倍（依固定成本分攤，非統一比例；國外案例：付譯者 €0.075/字 → 客戶報價 €0.218/字，抓 20% 營業利潤率） |
+| 純媒合平台（PRO360／104／Tasker） | 成交金額 → 抽成 | 10–25% 抽成，不是倍數訂價，因為平台不承擔 QA 責任 |
+| **校對／編修 vs. 從零翻譯** | **工時比例反推** | **國際慣例（ATA／ProZ）：校對費 ≈ 全新翻譯費的 35–40%**（校對花的時間通常只有從零翻譯的 1/3–1/2） |
+
+**跟台灣數字對照**：出任務 Tasker「AI 初譯＋人工精校」NT$30–50/分鐘，對比創作者俱樂部「從零人工雙語翻譯」NT$150/分鐘，比例落在 **20–33%**，比國際 35–40% 的慣例略低——合理解讀是台灣接案市場價格本來壓得比較緊，或「精校」被界定成比 ProZ 講的「editing」更輕量的潤飾。
+
+**給 Giloo 的估算方式**：想知道「校對 AI 字幕」的合理報價區間，用「這部片找人從零翻譯要多少錢 × 20%」當下限、「× 35%」當上限，落在區間內算合理；目前台灣接案行情剛好貼著下限，代表現階段議價空間不大，算甜蜜點。
+
+---
+
 ## Sources
 
 - [Rev Subtitles: Pricing, Quality, Turnaround, And Jobs (2026)](https://starpop.ai/blog/articles/rev-subtitles)
@@ -117,3 +138,8 @@
 - [日文字幕翻譯,日文影片翻譯,日文聽譯 | 日台科技日文翻譯](https://www.jtt-h.com/jqavideo)
 - [【2026最新】中翻英翻譯接案、外包報價行情費用參考｜104職場力](https://blog.104.com.tw/quotation-of-translation/)
 - [網路接案、找工作或兼職必看，6大外包網推薦比較懶人包 - PRO360達人網](https://www.pro360.com.tw/blog/6_freelance_jobs_websites/)
+- [Pricing Techniques in the Translation Industry - American Translators Association (ATA)](https://www.atanet.org/business-strategies/pricing-techniques-in-the-translation-industry/)
+- [Comparing freelance and agency translation pricing models - INTERPROTRANS](https://interprotrans.net/comparing-freelance-and-agency-translation-pricing-models/)
+- [Proofreading rates - industry standard? (ProZ.com: Translator Coop)](https://www.proz.com/forum/prozcom_translator_coop/6287-proofreading_rates_industry_standard.html)
+- [What are the standard proofreading rates? (ProZ.com)](https://www.proz.com/forum/proofreading_editing_reviewing/221497-what_are_the_standard_proofreading_rates.html)
+- [中英文翻譯價格怎麼算？看懂翻譯社報價的 4 大重點 | 元年翻譯](https://t-transera.com/translation-rates/)
